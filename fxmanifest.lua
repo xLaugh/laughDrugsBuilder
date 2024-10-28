@@ -4,6 +4,11 @@ author 'Laugh'
 version '0.1.0'
 lua54 'yes'
 
+escrow_ignore {
+  "config.lua",
+  "locales/*.lua",
+}
+
 shared_scripts {
 	"config.lua",
     "@es_extended/imports.lua",
