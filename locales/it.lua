@@ -1,0 +1,18 @@
+Locales['it'] = {
+    ['press_to_harvest'] = 'Premi ~INPUT_CONTEXT~ per iniziare a raccogliere',
+    ['press_to_stop_harvest'] = 'Premi ~INPUT_CONTEXT~ per interrompere la raccolta',
+    ['press_to_process'] = 'Premi ~INPUT_CONTEXT~ per iniziare a processare',
+    ['press_to_stop_process'] = 'Premi ~INPUT_CONTEXT~ per interrompere il processo',
+    ['harvesting'] = 'Raccolta in corso...',
+    ['processing'] = 'Elaborazione in corso...',
+    ['stopped_harvest'] = 'Hai interrotto la raccolta.',
+    ['stopped_processing'] = 'Hai interrotto il processo.',
+    ['not_enough_item'] = 'Non hai abbastanza ~r~%s~s~',
+    ['inventory_full'] = 'Il tuo inventario è pieno',
+    ['received_item'] = 'Hai ricevuto ~g~%sx %s~s~',
+    ['processed_item'] = 'Hai trasformato ~b~%sx %s~s~ in ~g~%sx %s~s~',
+    ['inventory_full_item'] = 'Non puoi portare altro ~r~%s~s~',
+    ['not_enough_input'] = 'Inventario pieno o non hai abbastanza ~r~%s~s~',
+    ['cannot_carry_more'] = 'Non puoi portare altro ~r~%s~s~',
+    ['craft_disabled'] = 'Il sistema di creazione è disattivato.',
+}

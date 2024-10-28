@@ -1,0 +1,18 @@
+Locales['de'] = {
+    ['press_to_harvest'] = 'Drücke ~INPUT_CONTEXT~, um mit der Ernte zu beginnen',
+    ['press_to_stop_harvest'] = 'Drücke ~INPUT_CONTEXT~, um die Ernte zu stoppen',
+    ['press_to_process'] = 'Drücke ~INPUT_CONTEXT~, um mit dem Verarbeiten zu beginnen',
+    ['press_to_stop_process'] = 'Drücke ~INPUT_CONTEXT~, um das Verarbeiten zu stoppen',
+    ['harvesting'] = 'Ernte läuft...',
+    ['processing'] = 'Verarbeitung läuft...',
+    ['stopped_harvest'] = 'Du hast die Ernte gestoppt.',
+    ['stopped_processing'] = 'Du hast das Verarbeiten gestoppt.',
+    ['not_enough_item'] = 'Du hast nicht genug ~r~%s~s~',
+    ['inventory_full'] = 'Dein Inventar ist voll',
+    ['received_item'] = 'Du hast ~g~%sx %s~s~ erhalten',
+    ['processed_item'] = 'Du hast ~b~%sx %s~s~ in ~g~%sx %s~s~ verarbeitet',
+    ['inventory_full_item'] = 'Du kannst nicht mehr ~r~%s~s~ tragen',
+    ['not_enough_input'] = 'Inventar voll oder nicht genug ~r~%s~s~',
+    ['cannot_carry_more'] = 'Du kannst nicht mehr ~r~%s~s~ tragen',
+    ['craft_disabled'] = 'Das Herstellungssystem ist deaktiviert.',
+}

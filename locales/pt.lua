@@ -1,0 +1,18 @@
+Locales['pt'] = {
+    ['press_to_harvest'] = 'Pressione ~INPUT_CONTEXT~ para começar a colher',
+    ['press_to_stop_harvest'] = 'Pressione ~INPUT_CONTEXT~ para parar a colheita',
+    ['press_to_process'] = 'Pressione ~INPUT_CONTEXT~ para começar a processar',
+    ['press_to_stop_process'] = 'Pressione ~INPUT_CONTEXT~ para parar o processamento',
+    ['harvesting'] = 'Colheita em andamento...',
+    ['processing'] = 'Processamento em andamento...',
+    ['stopped_harvest'] = 'Você parou a colheita.',
+    ['stopped_processing'] = 'Você parou o processamento.',
+    ['not_enough_item'] = 'Você não tem o suficiente de ~r~%s~s~',
+    ['inventory_full'] = 'Seu inventário está cheio',
+    ['received_item'] = 'Você recebeu ~g~%sx %s~s~',
+    ['processed_item'] = 'Você processou ~b~%sx %s~s~ em ~g~%sx %s~s~',
+    ['inventory_full_item'] = 'Você não pode carregar mais ~r~%s~s~',
+    ['not_enough_input'] = 'Inventário cheio ou falta de ~r~%s~s~',
+    ['cannot_carry_more'] = 'Você não pode carregar mais ~r~%s~s~',
+    ['craft_disabled'] = 'O sistema de fabricação está desativado.',
+}
